@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://howtoguy.tv" # the base hostname & protocol for your site
 twitter_username: howtoguy
 github_username:  howtoguy
+port: 4003
 
 # Build settings
 markdown: kramdown
