@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: howtoguy.tv
-email: glen@howtoguy.tv
+title: howtoguy forked!
+email: you@email.com
 description: > # this means to ignore newlines until "baseurl:"
-  Howtoguy knows everything. Howtoguy can teach you how to do anything. Need to know how to test and replace a condensor on a '77 Kawasaki 650 motorcycle or build a wordpress website? Howtoguy has you covered.
+  Your description here...Change this in "_config.yml"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://howtoguy.tv" # the base hostname & protocol for your site
-twitter_username: howtoguy
-github_username:  howtoguy
+url: "http://####" # the base hostname & protocol for your site
+twitter_username: yourname
+github_username:  yourname
 port: 4003
 
 # Build settings
